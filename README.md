@@ -87,5 +87,9 @@ The system helps in understanding travel behavior, identifying popular tourist l
 ---
 
 ## 👩‍💻 Author
-Sharikaa D 
+Sharikaa D
+
+
+OUTPUT:
+<img width="804" height="679" alt="Image" src="https://github.com/user-attachments/assets/bb7b1ea4-39a3-4bc1-b327-283d6840eb8d" />
 
